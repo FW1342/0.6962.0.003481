@@ -1,5 +1,7 @@
- __480 × 312px
-|
-|
-\-0.0px = inline#FF00D7
-\\0.0px = inline2#*FF00D7=#f1b
+ __480 × 312px {=above inline1/~,001 }
+| = 001a
+| = 001b
+\-0.0px = inline#FF00D7 = 001c
+\\0.0px = inline2#*FF00D7=#f1b1b1
+  
+   

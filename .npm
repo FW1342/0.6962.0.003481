@@ -12,7 +12,10 @@
 
     text area :   center 
 
-  p90_left above 3d forced foreseen 
+  p90_left above 3d forced foreseen zoom 180%
+  p90_right above 3D forced foreseen zoom 180%
+
+ =longtoolbar #000000 #/fbdbf
 
  
  

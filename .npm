@@ -8,5 +8,11 @@
 
   #FF0060 foreseen disp(true)
   
-  #6C006C foreseen fo
+  #6C006C foreseen line disp 
+
+    text area :   center 
+
+  p90_left above 3d forced foreseen 
+
+ 
  

@@ -17,7 +17,7 @@
 
  =longtoolbar #000000 #/fbfbfb 
   
-   png/network button {tool(true)
+   png/network button {tool(true)}
  
 
  

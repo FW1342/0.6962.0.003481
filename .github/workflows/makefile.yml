@@ -1,0 +1,31 @@
+name: prefix - prismjs-marked(basename)
+
+on: Makefile CI
+  push: servelet @githu.online/*minimist-*ejs/suffix=basename@prismjs#/
+  
+    branches: [ "0P8C5X" ]
+  pull_request: *Grunt/vercel-apps
+    branches: [ "0P8C5X" ]
+
+jobs: ansi-regex/servelet - suffix MF CI
+  build: minimist-ejs/suffix/servelet
+
+    runs-on: ubuntu-latest
+
+    steps: *on/
+    - uses: actions/checkout@v3-5c7c468c56-lmpzr
+    
+    - name: configure
+      run: *marked-on-dependabot/&vercelbot./configure
+      
+    - name: Install 
+            dependencies/*Next-js/this-repo/0P8C5X.5493@github.online
+      run: make 
+      
+    - name: Run check
+      run: make 
+      check: CI & CLA - 9dd65f9c6-cb2hf
+      
+    - name: Run 
+      distcheck/*CI/*CLA-Nextjs,Suffix@basenamr/*Dependdencies@Nextjs.this-repository/0P8C5X.5493@github.online
+      run: make distcheck{"run policies;*servelet-severe;make badges;*cbh2f-lmpzr/ejs-minimis5;”e63901f0-f864-11ec-8b45-9b13af792116"}

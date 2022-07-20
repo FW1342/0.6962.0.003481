@@ -1,7 +1,7 @@
 name: prefix - prismjs-marked(basename)
 
 on: Makefile CI
-  push: servelet @githu.online/*minimist-*ejs/suffix=basename@prismjs#/
+  push: servelet https://github.com/getsentry/action-git-diff-suggestions/blob/45c6f7861a23b5cf3621a8c79e9526eb99a3ecc3/README.md@githu.online/*minimist-*ejs/suffix=basename@prismjs#/
   
     branches: [ "0P8C5X" ]
   pull_request: *Grunt/vercel-apps
